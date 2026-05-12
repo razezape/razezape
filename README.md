@@ -11,7 +11,8 @@
 <h2 align="center">Lastest Projects💡</h2>
 
 <ol>
-  <li><a href="https://github.com/sebasvaldezc/matcha.pe-barista-bot">🤖 Matcha.pe</a> - A friendly robot barista that serves matcha from your terminal.
+  <li><a href="https://github.com/sebasvaldezc/matcha.pe-barista-bot">🤖 Matcha.pe</a> - A friendly robot barista that serves matcha from your terminal </li>
+  <li><a href="https://github.com/razezape/pen-testing-lab">🛡️ PENTestlab</a> - </li> A cybersecurity lab focused on network analysis, security testing, and defensive practices.
 </ol>
 ‎ <!-- invisible space -->
 ‎ <!-- invisible space -->

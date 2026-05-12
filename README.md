@@ -28,13 +28,14 @@
 ### Softwares
 ![Ejercicios](https://img.shields.io/badge/-Kali_Linux-S?style=for-the-badge&logo=kalilinux&labelColor=%23000000&color=%234641D9)
 ![Tiempo](https://img.shields.io/badge/-Ubuntu-E?style=for-the-badge&logo=ubuntu&labelColor=%23000000&color=%23F06529)
+![Helao](https://img.shields.io/badge/-virtualbox-A?style=for-the-badge&logo=virtualbox&labelColor=%23000000&color=%232F61B4)
+![Pollito](https://img.shields.io/badge/-vmware-N?style=for-the-badge&logo=vmware&labelColor=%23000000&color=%23607078)
 ![Jajaja](https://img.shields.io/badge/-obs%20studio-B?style=for-the-badge&logo=obsstudio&labelColor=%23000000&color=%23302E31)
 ![Hambreo](https://img.shields.io/badge/-trello-A?style=for-the-badge&logo=trello&labelColor=%23000000&color=%230052CC)
 ![Flurocente](https://img.shields.io/badge/-figma-S?style=for-the-badge&logo=figma&labelColor=%23000000&color=%23FF008C)
 ![Sierra](https://img.shields.io/badge/-zapier-T?style=for-the-badge&logo=zapier&labelColor=%23000000&color=%23FF4F00)
 ![Batman](https://img.shields.io/badge/-kodak-I?style=for-the-badge&logo=kodak&labelColor=%23000000&color=%23ED0000)
-![Helao](https://img.shields.io/badge/-virtualbox-A?style=for-the-badge&logo=virtualbox&labelColor=%23000000&color=%232F61B4)
-![Pollito](https://img.shields.io/badge/-vmware-N?style=for-the-badge&logo=vmware&labelColor=%23000000&color=%23607078)
+
 
 
 

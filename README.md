@@ -22,8 +22,7 @@
 ![Bad Bunny](https://img.shields.io/badge/-Python-S?style=for-the-badge&logo=python&labelColor=%23000000&color=%230082FC)
 ![Ceviche](https://img.shields.io/badge/-HTML-E?style=for-the-badge&logo=html5&labelColor=%23000000&color=%23E34F26)
 ![Inka Cola](https://img.shields.io/badge/-CCS-B?style=for-the-badge&logo=css&labelColor=%23000000&color=%237A3DB8)
-![Katteyes](https://img.shields.io/badge/-JavaScript-A?style=for-the-badge&logo=javascript&labelColor=%23000000&color=%23F7DF1E)
-![Arroz Con Pato](https://img.shields.io/badge/-Markdown-S?style=for-the-badge&logo=markdown&labelColor=%23000000&color=%23333333)
+![Arroz Con Pato](https://img.shields.io/badge/-Markdown-A?style=for-the-badge&logo=markdown&labelColor=%23000000&color=%23333333)
 
 ### Softwares
 ![Ejercicios](https://img.shields.io/badge/-Kali_Linux-S?style=for-the-badge&logo=kalilinux&labelColor=%23000000&color=%234641D9)

@@ -1,10 +1,10 @@
 <h2 align="center">Hi there 👋</h2>
 
 <ul>
-  <li> I’m currently working on ... my first gui</li>
-  <li> I’m currently learning ... programming languages and french</li>
-  <li> I’m looking to collaborate on ... open-source projects</li>
-  <li> Fun fact ... I've built my first PC at 13 without blowing anything up</li>
+  <li> I’m currently working on ... mi primer gui</li>
+  <li> I’m currently learning ... mas lenguajes de programación</li>
+  <li> I’m looking to collaborate on ... proyectos open-source </li>
+  <li> Fun fact ... I've built my first PC at 13 sin explotar nada lol</li>
 </ul>
 ​‎ <!-- invisible space -->
 ‎ <!-- invisible space -->

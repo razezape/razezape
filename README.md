@@ -13,7 +13,7 @@
 <ol>
   <li><a href="https://github.com/sebasvaldezc/matcha.pe-barista-bot">🤖 Matcha.pe</a> - A friendly robot barista that serves matcha from your terminal </li>
   <li><a href="https://github.com/razezape/pen-testing-lab">🛡️ PEN Testlab</a> - A basic virtual lab report focused on network analysis, pen testing and defensive strategies.</li>
-  <li><a href="https://github.com/razezape/Tu-Sharky">🦈 Tu Sharky</a> - A practical report on Wireshark for network packet analysis, attack scenario forensics & malware detection.</li>
+  <li><a href="https://github.com/razezape/Tu-Sharky">🦈 Sharky Tuto</a> - A practical report on Wireshark for network packet analysis, attack scenario forensics & malware detection.</li>
 </ol>
 ‎ <!-- invisible space -->
 ‎ <!-- invisible space -->
